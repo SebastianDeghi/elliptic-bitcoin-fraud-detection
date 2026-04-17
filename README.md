@@ -1,8 +1,8 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # 🔍 Detección de Fraude en Bitcoin con Elliptic Dataset
 
-## 👥 Colaboradores:**Sofía Bobbiesi Bender, Mildre Cepeda y Dalma Márquez.**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+### 👥 Colaboradores: **Sofía Bobbiesi Bender, Mildre Cepeda y Dalma Márquez.**
 
 ***
 
