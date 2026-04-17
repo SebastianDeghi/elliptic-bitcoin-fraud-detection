@@ -119,6 +119,13 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 ***
 
+## 🙏 Agradecimientos
+
+- A la empresa **Elliptic** por crear y publicar este valioso conjunto de datos para la investigación.
+- A toda la comunidad de código abierto por las herramientas que hicieron posible este análisis (`pytorch`, `pytorch-geometric`, `scikit-learn`, `xgboost`, etc.).
+
+***
+
 ## 👤 Autor
 Sebastián Deghi
 - GitHub: [@SebastianDeghi](https://github.com/SebastianDeghi)
