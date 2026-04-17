@@ -1,0 +1,39 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Datasets (¡MUY IMPORTANTE! - No subir el dataset completo)
+data/
+*.csv
+*.zip
+*.parquet
+
+# Variables de entorno y secretos
+.env
+*.pem
+*.key
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Modelos guardados (si son grandes)
+*.pth
+*.pt
+*.h5
+*.model
+saved_models/
+
+# Logs
+*.log
