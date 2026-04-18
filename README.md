@@ -1,6 +1,9 @@
 # 🔍 Detección de Fraude en Bitcoin con Elliptic Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![GNN](https://img.shields.io/badge/GNN-GCN%20%7C%20GAT-blueviolet)](https://pytorch-geometric.readthedocs.io/)
 
 ### 👥 Colaboradores: **Sofía Bobbiesi Bender, Mildre Cepeda y Dalma Márquez.**
 
